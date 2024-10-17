@@ -1,0 +1,16 @@
+Key.ctrl_lKey.ctrl_lKey.ctrl_l\x03 BACKSPACE frfrom pynput import Key.tab
+if Key.shift_Key.tab
+listener = kKey.tabKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left  BACKSPACE Key.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.left BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE keyKey.caps_lockpKey.caps_lockresssedKey.leftKey.left BACKSPACE Key.downKey.down
+Key.tab
+inKey.downKey.tabKey.downKey.downKey.left BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE 
+Key.caps_lockKey.tabKey.right
+Key.tabKey.left BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE strKey.tabKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shift(Key.caps_lockkeyKey.rightKey.right
+with openKey.shiftKey.shiftKey.shift(Key.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shift@ BACKSPACE Key.shiftKey.shiftKey.shiftKey.shiftKey.shift@ BACKSPACE ""keyfile.txt, BACKSPACE Key.right,Key.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shift@ BACKSPACE ""aKey.rightKey.right as logkey"" BACKSPACE ; BACKSPACE Key.shiftKey.shift:
+tryKey.shift:
+char -key.char
+Key.tab BACKSPACE =
+exKey.tabKey.left BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  
+prKey.tabKey.left BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE Key.shift)Key.left""Key.caps_lockeKey.shiftKey.caps_lockrror getting char
+Key.leftKey.shift_rKey.downKey.upKey.shift_r BACKSPACE  BACKSPACE  BACKSPACE          BACKSPACE      BACKSPACE Key.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_l\x03Key.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_l\x03Key.ctrl_l\x13Key.ctrl_l\x03Key.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_l\x16 . coe BACKSPACE rrect the grmammar BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  BACKSPACE  code
+Key.ctrl_l\x16 correct
+Key.ctrl_l\x03 BACKSPACE Key.ctrl_l\x16Key.ctrl_lKey.ctrl_l\x13
